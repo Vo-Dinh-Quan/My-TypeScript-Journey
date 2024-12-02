@@ -1,4 +1,4 @@
-### **Giới thiệu về TypeScript trong Frontend**
+# **Giới thiệu về TypeScript trong Frontend**
 
 Trong bài giảng này, chúng ta sẽ tìm hiểu về **TypeScript cơ bản**, với các chủ đề sau:
 
@@ -11,7 +11,7 @@ Nguồn tài liệu tham khảo từ [TypeScript Handbook](https://www.typescrip
 
 ---
 
-### **1. Static Type Checking** 🛠️
+## **1. Static Type Checking** 🛠️
 
 **TypeScript giúp gì?**
 - TypeScript cung cấp khả năng **kiểm tra kiểu dữ liệu tĩnh** ngay trong lúc bạn đang viết mã. Điều này có nghĩa là **lỗi sẽ được phát hiện ngay khi viết mã, thay vì khi chạy ứng dụng** như JavaScript.
@@ -29,7 +29,7 @@ name = 123; // Error: Type 'number' is not assignable to type 'string'.
 
 ---
 
-### **2. Types for Tooling** 🔧
+## **2. Types for Tooling** 🔧
 
 **Những công cụ hữu ích trong TypeScript:**
 - **Auto-completion**: TypeScript giúp cung cấp gợi ý tự động khi bạn gõ mã, điều này giúp tránh được các lỗi về tên biến hay hàm.
@@ -45,7 +45,7 @@ let obj: { name: string, age: number } = { name: "Thuận", age: 42 };
 
 ---
 
-### **3. tsc - TypeScript Compiler** ⚙️
+## **3. tsc - TypeScript Compiler** ⚙️
 
 **Cài đặt TypeScript:**
 Để bắt đầu sử dụng TypeScript, bạn cần cài đặt `typescript` thông qua npm:

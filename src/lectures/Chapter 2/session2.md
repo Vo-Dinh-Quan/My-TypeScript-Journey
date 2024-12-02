@@ -1,4 +1,4 @@
-### **Kiểu Dữ Liệu trong TypeScript**
+# **Kiểu Dữ Liệu trong TypeScript**
 
 TypeScript là một siêu ngôn ngữ của JavaScript, giúp người lập trình dễ dàng phát triển ứng dụng với kiểm tra kiểu dữ liệu (type checking). Điều này giúp tăng cường độ an toàn của mã và giảm thiểu lỗi khi chạy ứng dụng. Trong bài giảng này, chúng ta sẽ đi qua 4 khái niệm quan trọng về kiểu dữ liệu trong TypeScript:
 
@@ -9,7 +9,7 @@ TypeScript là một siêu ngôn ngữ của JavaScript, giúp người lập tr
 
 ---
 
-### **1. Explicit Types (Khai báo kiểu dữ liệu)** 📝
+## **1. Explicit Types (Khai báo kiểu dữ liệu)** 📝
 
 Khi bạn khai báo một biến trong TypeScript, bạn có thể chỉ định kiểu dữ liệu rõ ràng bằng cách sử dụng **explicit types**. Điều này giúp bạn kiểm soát chính xác kiểu dữ liệu mà biến có thể nhận, đảm bảo rằng không có lỗi kiểu dữ liệu trong quá trình biên dịch.
 
